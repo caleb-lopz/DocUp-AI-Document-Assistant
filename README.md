@@ -148,3 +148,7 @@ Upload a PDF, wait a moment for indexing, then start asking questions.
 
 https://youtu.be/bn7K4T-X7Pc
 
+---
+## Related projects
+
+- [Mexican Law Assistant — Agentic RAG + Reranking](https://github.com/caleb-lopz/Mexican-Law-Assistant-Agentic-RAG-Reranking) — A CLI-based legal assistant that extends the reranking pipeline with an agentic layer that automatically selects the right legal document to consult.
