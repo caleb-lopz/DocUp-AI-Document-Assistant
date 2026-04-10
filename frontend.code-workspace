@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "frontend",
+			"path": "../../Downloads/frontend"
+		},
+		{
+			"name": "doc_up",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
